@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Starter Project",
-  description: "A clean starting point for building your site.",
+  title: "Zvolta",
+  description: "Zvolta charger host manual.",
   other: {
     "codex-preview": "development",
   },
